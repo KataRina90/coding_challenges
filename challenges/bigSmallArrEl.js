@@ -13,3 +13,4 @@ for (i=0; i<arr.length; i++) {
     }
 }
 console.log(min,max)
+console.log ('This is how its done')
